@@ -57,19 +57,16 @@ I'm Mohsen, a developer passionate about the web and the internet. My focus is o
 
 ---
 
-
-### 📌 پروژه‌های منتخب | Featured Projects
+### 📂 پروژه‌های من | My Automated Projects
 
 <div align="center">
-  <!-- این بخش به صورت خودکار آخرین یا برگزیده پروژه‌های تو را نمایش می‌دهد -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjpt1&repo=نام-اولین-پروژه-اصلی&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjpt1&repo=نام-دومین-پروژه-اصلی&theme=tokyonight" />
+  <!-- این بخش به صورت خودکار پروژه‌های برتر تو را استخراج و نمایش می‌دهد -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjpt1&show=repo1,repo2,repo3&theme=tokyonight" />
 </div>
 
 <p align="center">
-  <i>نکته: برای نمایش خودکار پروژه‌های خاص، نام ریپوی خود را در کد بالا جایگزین "نام-پروژه" کنید.</i>
+  <i>نکته: اگر پروژه‌های بالا نمایش داده نشدند، کافی است در ریپوی اصلی خود، پروژه‌هایتان را "Pin" کنید تا این کارت‌ها به صورت خودکار آن‌ها را شناسایی کنند.</i>
 </p>
-
 
 ---
 
