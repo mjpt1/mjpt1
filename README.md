@@ -23,7 +23,7 @@
 <br>
 من محسن هستم، یک برنامه‌نویس عاشق دنیای وب و اینترنت. اشتیاق من به حل مسائل پیچیده، نوشتن کد تمیز و ساخت پروژه‌هایی است که واقعاً کاربردی باشند. همیشه در حال یادگیری تکنولوژی‌های جدید و بهینه‌سازی مسیر توسعه هستم.
 <br><br>
-<b>علایق من:</b> توسعه وب (Frontend & Backend)، یادگیری ابزارهای جدید، مطالعه کتاب، فیلم و سریال‌های تکنولوژی‌محور.
+<b>علایق من:</b> توسعه وب، یادگیری ابزارهای جدید، مطالعه کتاب و دنیای تکنولوژی.
 </details>
 
 <details>
@@ -31,7 +31,7 @@
 <br>
 I'm Mohsen, a developer passionate about the web and the internet. My focus is on solving complex problems, writing clean code, and building projects that are genuinely useful. I am constantly learning new technologies and optimizing development workflows.
 <br><br>
-<b>My Interests:</b> Web Development (Frontend & Backend), Learning new tools, Books, Movies, and Tech-oriented series.
+<b>My Interests:</b> Web Development, Learning new tools, Books, and the Tech World.
 </details>
 
 </div>
@@ -46,27 +46,29 @@ I'm Mohsen, a developer passionate about the web and the internet. My focus is o
 
 ---
 
-### 📊 آمار فعالیت | GitHub Stats
+### 📂 پروژه‌های منتخب | Featured Projects
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mjpt1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mjpt1&theme=tokyonight&hide_border=true" />
-  <br>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjpt1&layout=compact&theme=tokyonight&hide_border=true" />
+
+| پروژه | توضیحات | لینک |
+| :--- | :--- | :--- |
+| **Building** | پروژه ساختمانی و مدیریت املاک | [مشاهده](https://github.com/mjpt1/building) |
+| **Glucia** | سیستم جامع گلوکز/سلامت | [مشاهده](https://github.com/mjpt1/glucia) |
+| **ParsEnergy** | سامانه انرژی و مدیریت داده | [مشاهده](https://github.com/mjpt1/parsenergy) |
+| **CRM2** | سیستم مدیریت ارتباط با مشتریان | [مشاهده](https://github.com/mjpt1/crm2) |
+| **MohsenNewSite** | وب‌سایت شخصی (نسخه جدید) | [مشاهده](https://github.com/mjpt1/mohsennewsite) |
+| **Portfolio** | رزومه و پورتفولیوی حرفه‌ای | [مشاهده](https://github.com/mjpt1/Portfolio) |
+
 </div>
 
 ---
 
-### 📂 پروژه‌های من | My Automated Projects
+### 📊 آمار فعالیت | GitHub Stats
 
 <div align="center">
-  <!-- این بخش به صورت خودکار پروژه‌های برتر تو را استخراج و نمایش می‌دهد -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjpt1&show=repo1,repo2,repo3&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mjpt1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjpt1&theme=tokyonight&hide_border=true" />
 </div>
-
-<p align="center">
-  <i>نکته: اگر پروژه‌های بالا نمایش داده نشدند، کافی است در ریپوی اصلی خود، پروژه‌هایتان را "Pin" کنید تا این کارت‌ها به صورت خودکار آن‌ها را شناسایی کنند.</i>
-</p>
 
 ---
 
