@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=%D9%85%D8%AD%D8%B3%D9%86%20%D8%AC%D8%A8%D8%A7%D8%B1%D9%87%20%D8%A7%D8%B5%D9%84&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Developer&descSize=22&descAlignY=58&descAlign=50&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohsen%20Jabbarehasl&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Developer&descSize=22&descAlignY=58&descAlign=50&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=80&lines=%D8%B3%D9%84%D8%A7%D9%85!+%D9%85%D9%86+%D9%85%D8%AD%D8%B3%D9%86+%D8%AC%D8%A8%D8%A7%D8%B1%D9%87+%D8%A7%D8%B5%D9%84+%F0%9F%91%8B;Senior+Software+Developer+%F0%9F%9A%80;Building+real+products+for+Iran+%26+beyond+%E2%9C%A8" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=80&lines=Hi!+Welcome+to+my+GitHub+%F0%9F%91%8B;Senior+Software+Developer+%F0%9F%9A%80;Building+scalable+products+that+ship+%E2%9C%A8" alt="Typing animation"/>
 
 <br/>
 
@@ -16,25 +16,22 @@
 
 ---
 
-## 👋 درباره من · About Me
+## 👋 About Me
 
 ```yaml
-name: محسن جباره اصل
-name_en: Mohsen Jabbarehasl
-title: Senior Software Developer · توسعه‌دهنده ارشد نرم‌افزار
+name: Mohsen Jabbarehasl
+title: Senior Software Developer
 website: https://mahsen81.ir
 email: info@mahsen81.ir
 github: https://github.com/mjpt1
 member_since: 2013
 specialties: Full-Stack · AI · SEO · System Design
-current_focus: Production-grade platforms with Persian RTL & Jalali calendar
+current_focus: Production-grade platforms with scalable architecture
 fun_fact: food lover 🍽️
 ```
 
-**توسعه‌دهنده ارشد نرم‌افزار** با بیش از یک دهه تجربه در GitHub؛ سازندهٔ پلتفرم‌های production واقعی — از مدیریت ساختمان و دیابت تا پایش نیروگاه خورشیدی — با تمرکز بر معماری مقیاس‌پذیر، رابط فارسی RTL و تحویل محصول قابل‌استقرار.
+**Senior Software Developer** with over a decade on GitHub. I build production-ready platforms — from building management and healthcare to solar plant monitoring — with a focus on scalable architecture, clean code, and shippable products.
 
-> *« تجربه به من آموخته کد خوب، فقط کار می‌کند — بلکه سال‌ها بعد هم قابل نگهداری است. »*
->
 > *"Experience taught me that good code doesn't just work — it stays maintainable for years."*
 
 <br/>
@@ -87,8 +84,8 @@ fun_fact: food lover 🍽️
 <tr>
 <td width="50%">
 
-### 🏢 [building — سامان](https://github.com/mjpt1/building)
-**سامانه جامع مدیریت ساختمان** — شارژ، حسابداری، تعمیرات، پرداخت آنلاین (زرین‌پال) و تحلیل هوشمند فارسی. کاملاً RTL با تقویم شمسی.
+### 🏢 [building — Saman](https://github.com/mjpt1/building)
+**Full-stack building management platform** — billing, accounting, maintenance, online payments, and AI-powered analytics. RTL-ready with Jalali calendar support.
 
 [![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/building)
 
@@ -97,8 +94,8 @@ fun_fact: food lover 🍽️
 </td>
 <td width="50%">
 
-### 💉 [glucia — گلوسیا](https://github.com/mjpt1/glucia)
-**پلتفرم حرفه‌ای مدیریت دیابت** — پنل بیمار/پزشک/مدیر، کوچ هوشمند AI، پایگاه غذای ایرانی، WebSocket و تحلیل TIR/HbA1c.
+### 💉 [glucia](https://github.com/mjpt1/glucia)
+**Professional diabetes management platform** — patient/doctor/admin dashboards, AI health coach, food database, WebSocket alerts, and TIR/HbA1c analytics.
 
 [![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/glucia)
 [![Live](https://img.shields.io/badge/API%20Demo-ef4444?style=for-the-badge&logo=vercel&logoColor=white)](https://glucia-api.vercel.app)
@@ -111,7 +108,7 @@ fun_fact: food lover 🍽️
 <td width="50%">
 
 ### ☀️ [parsenergy — SolarOps](https://github.com/mjpt1/parsenergy)
-**سامانه پایش نیروگاه‌های خورشیدی** — تله‌متری لحظه‌ای، KPI، ML، گزارش PDF/Excel، PWA و i18n فارسی/انگلیسی.
+**Solar plant monitoring system** — real-time telemetry, KPIs, ML modules, PDF/Excel reports, PWA, and bilingual i18n.
 
 [![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/parsenergy)
 
@@ -121,7 +118,7 @@ fun_fact: food lover 🍽️
 <td width="50%">
 
 ### 📊 [crm2](https://github.com/mjpt1/crm2)
-**سیستم CRM سازمانی** — مدیریت ارتباط با مشتری، ماژولار و قابل‌استقرار با Docker.
+**Enterprise CRM system** — customer relationship management, modular architecture, Docker-ready deployment.
 
 [![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/crm2)
 
@@ -133,7 +130,7 @@ fun_fact: food lover 🍽️
 <td width="50%">
 
 ### 🌐 [mohsennewsite](https://github.com/mjpt1/mohsennewsite)
-**وب‌سایت شخصی mahsen81.ir** — Next.js با hero scroll-scrubbed، particle background و design system اختصاصی.
+**Personal website for mahsen81.ir** — Next.js with scroll-scrubbed hero, particle background, and custom design system.
 
 [![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/mohsennewsite)
 [![Live](https://img.shields.io/badge/Live%20Demo-ef4444?style=for-the-badge&logo=vercel&logoColor=white)](https://mohsennewsite0.vercel.app)
@@ -144,7 +141,7 @@ fun_fact: food lover 🍽️
 <td width="50%">
 
 ### ✨ [Portfolio](https://github.com/mjpt1/Portfolio)
-**لندینگ شخصی دوزبانه** — پس‌زمینه 3D با Three.js/GLSL، پارالکس، SEO و تشخیص خودکار زبان.
+**Personal landing page** — 3D background with Three.js/GLSL, parallax scrolling, SEO optimization, and auto language detection.
 
 [![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/Portfolio)
 [![Live](https://img.shields.io/badge/mahsen81.ir-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mahsen81.ir)
@@ -196,6 +193,6 @@ fun_fact: food lover 🍽️
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&fontSize=16&fontColor=ffffff&text=Thanks%20for%20visiting!%20%E2%98%95%20%E2%86%92%20%E2%9C%A8&animation=twinkling"/>
 
-**⭐ اگر پروژه‌ای را دوست داشتی، یک ستاره انگیزه‌ات می‌ده!**
+**⭐ If you like what you see, a star on any repo keeps me going!**
 
 </div>
