@@ -28,11 +28,13 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
-        with:
-          options: '{"user":"${{ github.repository_owner }}","theme":"radical","hide_border":"true","background":"0d1117","ring":"7c3aed","fire":"ef4444","currStreakLabel":"a78bfa"}'
-          path: dist/github-streak-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p dist
+          curl -fsSL --retry 3 --retry-delay 5 --max-time 120 \
+            "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=ef4444&currStreakLabel=a78bfa" \
+            -o dist/github-streak-stats.svg
+          test -s dist/github-streak-stats.svg
+          head -c 20 dist/github-streak-stats.svg | grep -q '<svg'
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
