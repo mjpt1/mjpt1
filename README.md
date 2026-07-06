@@ -40,7 +40,7 @@ fun_fact: food lover 🍽️
 
 <img src="https://github-readme-stats.shion.dev/api?username=mjpt1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
 
-<img src="https://streak-stats.demolab.com/?user=mjpt1&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=ef4444&currStreakLabel=a78bfa" alt="GitHub Streak" height="170"/>
+<img src="https://raw.githubusercontent.com/mjpt1/mjpt1/output/github-streak-stats.svg" alt="GitHub Streak" height="170"/>
 
 <br/>
 
