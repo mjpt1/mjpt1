@@ -28,13 +28,18 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Generate streak stats
-        run: |
-          mkdir -p dist
-          curl -fsSL --retry 3 --retry-delay 5 --max-time 120 \
-            "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=ef4444&currStreakLabel=a78bfa" \
-            -o dist/github-streak-stats.svg
-          test -s dist/github-streak-stats.svg
-          head -c 20 dist/github-streak-stats.svg | grep -q '<svg'
+        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.1
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: radical
+          OUTPUT_PATH: dist/github-streak-stats.svg
+          HIDE_BORDER: "true"
+          ANIMATED: "false"
+          BACKGROUND: "#0d1117"
+          RING: "#7c3aed"
+          FIRE: "#ef4444"
+          CURR_STREAK_LABEL: "#a78bfa"
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
