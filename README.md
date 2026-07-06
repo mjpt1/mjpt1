@@ -70,6 +70,28 @@ fun_fact: food lover 🍽️
 
 <br/>
 
+## 🤖 AI & Machine Learning
+
+<div align="center">
+
+**Fluent in production AI** — LLM integrations, RAG pipelines, embeddings, agents, and ML modules shipped in real products.
+
+### Models & Platforms
+<img src="https://skillicons.dev/icons?i=py,pytorch,nvidia,fastapi&perline=8" alt="AI frameworks"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=d4a574" alt="Anthropic"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+
+</div>
+
+<br/>
+
 <div align="center">
 
 <img src="https://trophy.ryglcloud.net/?username=mjpt1&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
