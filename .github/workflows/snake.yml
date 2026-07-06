@@ -19,6 +19,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Prepare asset output directory
+        run: mkdir -p dist
+
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -33,13 +36,16 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           THEME: radical
-          OUTPUT_PATH: dist/github-streak-stats.svg
+          OUTPUT_PATH: github-streak-stats.svg
           HIDE_BORDER: "true"
           ANIMATED: "false"
           BACKGROUND: "#0d1117"
           RING: "#7c3aed"
           FIRE: "#ef4444"
           CURR_STREAK_LABEL: "#a78bfa"
+
+      - name: Move streak into output directory
+        run: mv github-streak-stats.svg dist/github-streak-stats.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
