@@ -38,13 +38,13 @@ fun_fact: food lover 🍽️
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mjpt1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api?username=mjpt1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mjpt1&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=ef4444&currStreakLabel=a78bfa" alt="GitHub Streak" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=mjpt1&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=ef4444&currStreakLabel=a78bfa" alt="GitHub Streak" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mjpt1&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats-mu-two.vercel.app/api/top-langs/?username=mjpt1&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="170"/>
 
 </div>
 
