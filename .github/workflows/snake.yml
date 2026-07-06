@@ -6,7 +6,6 @@ on:
       - main
     paths:
       - .github/workflows/snake.yml
-      - README.md
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -27,13 +26,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Generate trophy card
-        uses: soulteary/github-profile-trophy-action@v1.0.0
-        with:
-          options: 'username=${{ github.repository_owner }}&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4'
-          path: dist/github-profile-trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
