@@ -28,9 +28,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Generate streak stats
-        uses: zients/github-readme-streak-stats@v2
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
         with:
-          options: 'user=${{ github.repository_owner }}&theme=radical&hide_border=true&background=0d1117&ring=7c3aed&fire=ef4444&currStreakLabel=a78bfa&disable_animations=true'
+          options: '{"user":"${{ github.repository_owner }}","theme":"radical","hide_border":"true","background":"0d1117","ring":"7c3aed","fire":"ef4444","currStreakLabel":"a78bfa"}'
           path: dist/github-streak-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
