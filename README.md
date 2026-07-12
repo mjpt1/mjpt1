@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohsen%20Jabbarehasl&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Developer&descSize=22&descAlignY=58&descAlign=50&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohsen%20Jabbarehasl&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Developer%20%C2%B7%20AI%20%26%20ML&descSize=20&descAlignY=58&descAlign=50&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=80&lines=Hi!+Welcome+to+my+GitHub+%F0%9F%91%8B;Senior+Software+Developer+%F0%9F%9A%80;Building+scalable+products+that+ship+%E2%9C%A8" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Hi!+Welcome+to+my+GitHub+%F0%9F%91%8B;Senior+Software+Developer+%C2%B7+AI+%26+Machine+Learning;Building+scalable+products+that+ship+%E2%9C%A8" alt="Typing animation"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Senior%20Software%20Developer-7c3aed?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-ef4444?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Open%20to%20work-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Website-mahsen81.ir-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Iran-ef4444?style=for-the-badge&logo=googlemaps&logoColor=white"/>
@@ -20,17 +21,17 @@
 
 ```yaml
 name: Mohsen Jabbarehasl
-title: Senior Software Developer
+title: Senior Software Developer · AI & Machine Learning
 website: https://mahsen81.ir
 email: info@mahsen81.ir
 github: https://github.com/mjpt1
 member_since: 2013
-specialties: Full-Stack · AI · SEO · System Design
-current_focus: Production-grade platforms with scalable architecture
+specialties: Full-Stack · AI · Machine Learning · SEO · System Design
+current_focus: Production platforms with AI/ML features and scalable architecture
 fun_fact: food lover 🍽️
 ```
 
-**Senior Software Developer** with over a decade on GitHub. I build production-ready platforms — from building management and healthcare to solar plant monitoring — with a focus on scalable architecture, clean code, and shippable products.
+**Senior Software Developer** specializing in **AI and Machine Learning**, with over a decade on GitHub. I build production-ready platforms — from building management and healthcare to solar plant monitoring — and ship LLM integrations, predictive models, and intelligent features alongside scalable architecture and clean code.
 
 > *"Experience taught me that good code doesn't just work — it stays maintainable for years."*
 
@@ -74,13 +75,14 @@ fun_fact: food lover 🍽️
 
 <div align="center">
 
-**Fluent in production AI** — LLM integrations, RAG pipelines, embeddings, agents, and ML modules shipped in real products.
+Expert in **Artificial Intelligence** and **Machine Learning** — from classical ML models to modern LLMs. I design, train, and integrate AI into real products: RAG pipelines, embeddings, agents, predictive analytics, and production ML modules.
 
-### Models & Platforms
-<img src="https://skillicons.dev/icons?i=py,pytorch,nvidia,fastapi&perline=8" alt="AI frameworks"/>
+### Stack & Frameworks
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,nvidia,fastapi&perline=8" alt="AI frameworks"/>
 
 <br/>
 
+### Models & Platforms
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=d4a574" alt="Anthropic"/>
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
