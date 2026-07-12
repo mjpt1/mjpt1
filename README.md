@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohsen%20Jabbarehasl&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Developer%20%C2%B7%20AI%20%26%20ML&descSize=20&descAlignY=58&descAlign=50&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohsen%20Jabbarehasl&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Developer%20-%20AI%20and%20ML&descSize=20&descAlignY=58&descAlign=50&animation=twinkling" alt="Mohsen Jabbarehasl"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Hi!+Welcome+to+my+GitHub+%F0%9F%91%8B;Senior+Software+Developer+%C2%B7+AI+%26+Machine+Learning;Building+scalable+products+that+ship+%E2%9C%A8" alt="Typing animation"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Senior%20Software%20Developer-7c3aed?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-ef4444?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20to%20work-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Website-mahsen81.ir-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Iran-ef4444?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Senior%20Software%20Developer-7c3aed?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Senior Software Developer"/>
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-ef4444?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI and Machine Learning"/>
+<img src="https://img.shields.io/badge/Open%20to%20work-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Open to work"/>
+<img src="https://img.shields.io/badge/Website-mahsen81.ir-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+<img src="https://img.shields.io/badge/Location-Iran-ef4444?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 <img src="https://komarev.com/ghpvc/?username=mjpt1&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views"/>
 
 </div>
@@ -78,7 +78,12 @@ fun_fact: food lover 🍽️
 Expert in **Artificial Intelligence** and **Machine Learning** — from classical ML models to modern LLMs. I design, train, and integrate AI into real products: RAG pipelines, embeddings, agents, predictive analytics, and production ML modules.
 
 ### Stack & Frameworks
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,nvidia,fastapi&perline=8" alt="AI frameworks"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"/>
 
 <br/>
 
