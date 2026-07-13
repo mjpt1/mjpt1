@@ -107,79 +107,81 @@ Expert in **Artificial Intelligence** and **Machine Learning** — from classica
 
 <br/>
 
-## 🚀 Featured Projects
+<!-- LATEST_PROJECTS:START -->
+## 🚀 Latest Projects
+
+Recently updated repositories — refreshed automatically.
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏢 [building — Saman](https://github.com/mjpt1/building)
-**Full-stack building management platform** — billing, accounting, maintenance, online payments, and AI-powered analytics. RTL-ready with Jalali calendar support.
+### 🟦 [plant](https://github.com/mjpt1/plant)
+**Recently updated repository.**
 
-[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/building)
+[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/plant)
+[![Live](https://img.shields.io/badge/Live%20Demo-ef4444?style=for-the-badge&logo=vercel&logoColor=white)](https://plant-two-psi.vercel.app)
 
-`NestJS` · `Next.js 14` · `PostgreSQL` · `Prisma` · `Docker`
-
-</td>
-<td width="50%">
-
-### 💉 [glucia](https://github.com/mjpt1/glucia)
-**Professional diabetes management platform** — patient/doctor/admin dashboards, AI health coach, food database, WebSocket alerts, and TIR/HbA1c analytics.
-
-[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/glucia)
-[![Live](https://img.shields.io/badge/API%20Demo-ef4444?style=for-the-badge&logo=vercel&logoColor=white)](https://glucia-api.vercel.app)
-
-`NestJS` · `Next.js 15` · `Prisma` · `GPT-4o` · `WebSocket`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ☀️ [parsenergy — SolarOps](https://github.com/mjpt1/parsenergy)
-**Solar plant monitoring system** — real-time telemetry, KPIs, ML modules, PDF/Excel reports, PWA, and bilingual i18n.
-
-[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/parsenergy)
-
-`Python` · `Django` · `Celery` · `Redis` · `PostgreSQL` · `Docker`
+`TypeScript`
 
 </td>
 <td width="50%">
 
-### 📊 [crm2](https://github.com/mjpt1/crm2)
-**Enterprise CRM system** — customer relationship management, modular architecture, Docker-ready deployment.
+### 🟦 [mahsaagent](https://github.com/mjpt1/mahsaagent)
+**Persian developer toolkit: RTL, Jalali, Iranian validation, and UI skills**
 
-[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/crm2)
+[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/mahsaagent)
 
-`Python` · `HTML/CSS` · `JavaScript` · `Docker`
+`TypeScript`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🌐 [mohsennewsite](https://github.com/mjpt1/mohsennewsite)
-**Personal website for mahsen81.ir** — Next.js with scroll-scrubbed hero, particle background, and custom design system.
+### 🐍 [pyrecall](https://github.com/mjpt1/pyrecall)
+**Local project memory for Python — learn from corrections, recall conventions, pytest/typing/pathlib skills. CLI + stdio tool bridge. Zero network. MIT.**
 
-[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/mohsennewsite)
-[![Live](https://img.shields.io/badge/Live%20Demo-ef4444?style=for-the-badge&logo=vercel&logoColor=white)](https://mohsennewsite0.vercel.app)
+[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/pyrecall)
 
-`Next.js` · `TypeScript` · `Framer Motion` · `TailwindCSS`
+`Python`
 
 </td>
 <td width="50%">
 
-### ✨ [Portfolio](https://github.com/mjpt1/Portfolio)
-**Personal landing page** — 3D background with Three.js/GLSL, parallax scrolling, SEO optimization, and auto language detection.
+### 📦 [android](https://github.com/mjpt1/android)
+**good night baby**
 
-[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/Portfolio)
-[![Live](https://img.shields.io/badge/mahsen81.ir-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mahsen81.ir)
+[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/android)
 
-`HTML5` · `Three.js` · `GLSL` · `Vanilla JS`
+`Project`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🐍 [fa](https://github.com/mjpt1/fa)
+**"Python in Persian" is an open-source online book that offers a comprehensive tutorial on the Python programming language in Persian.**
+
+[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/fa)
+
+`Python`
+
+</td>
+<td width="50%">
+
+### 📦 [passchange](https://github.com/mjpt1/passchange)
+**Recently updated repository.**
+
+[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/passchange)
+
+`Project`
 
 </td>
 </tr>
 </table>
+<!-- LATEST_PROJECTS:END -->
 
 <br/>
 
