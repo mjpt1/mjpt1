@@ -50,13 +50,16 @@ def api_get(url: str) -> list | dict:
 def fetch_latest_repos() -> list[dict]:
     repos = api_get(
         f"https://api.github.com/users/{USERNAME}/repos"
-        f"?sort=updated&direction=desc&per_page=40&type=owner"
+        f"?sort=pushed&direction=desc&per_page=40&type=owner"
     )
     selected = []
     for repo in repos:
         if repo.get("fork") or repo.get("archived"):
             continue
         if repo.get("name") == USERNAME:
+            continue
+        # Skip repos with no real push history
+        if not repo.get("pushed_at"):
             continue
         selected.append(repo)
         if len(selected) >= COUNT:
@@ -107,7 +110,7 @@ def render_section(repos: list[dict]) -> str:
     return (
         f"{START}\n"
         "## 🚀 Latest Projects\n\n"
-        "Recently updated repositories — refreshed automatically.\n\n"
+        "Most recently pushed repositories — refreshed automatically.\n\n"
         f"<table>\n{body}\n</table>\n"
         f"{END}"
     )

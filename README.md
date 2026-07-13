@@ -110,10 +110,20 @@ Expert in **Artificial Intelligence** and **Machine Learning** — from classica
 <!-- LATEST_PROJECTS:START -->
 ## 🚀 Latest Projects
 
-Recently updated repositories — refreshed automatically.
+Most recently pushed repositories — refreshed automatically.
 
 <table>
 <tr>
+<td width="50%">
+
+### 🟦 [mahsaagent](https://github.com/mjpt1/mahsaagent)
+**Persian developer toolkit: RTL, Jalali, Iranian validation, and UI skills**
+
+[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/mahsaagent)
+
+`TypeScript`
+
+</td>
 <td width="50%">
 
 ### 🟦 [plant](https://github.com/mjpt1/plant)
@@ -121,16 +131,6 @@ Recently updated repositories — refreshed automatically.
 
 [![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/plant)
 [![Live](https://img.shields.io/badge/Live%20Demo-ef4444?style=for-the-badge&logo=vercel&logoColor=white)](https://plant-two-psi.vercel.app)
-
-`TypeScript`
-
-</td>
-<td width="50%">
-
-### 🟦 [mahsaagent](https://github.com/mjpt1/mahsaagent)
-**Persian developer toolkit: RTL, Jalali, Iranian validation, and UI skills**
-
-[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/mahsaagent)
 
 `TypeScript`
 
@@ -149,34 +149,36 @@ Recently updated repositories — refreshed automatically.
 </td>
 <td width="50%">
 
-### 📦 [android](https://github.com/mjpt1/android)
-**good night baby**
+### 🎨 [memar](https://github.com/mjpt1/memar)
+**Recently updated repository.**
 
-[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/android)
+[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/memar)
+[![Live](https://img.shields.io/badge/Live%20Demo-ef4444?style=for-the-badge&logo=vercel&logoColor=white)](https://memar-ten.vercel.app)
 
-`Project`
+`CSS`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🐍 [fa](https://github.com/mjpt1/fa)
-**"Python in Persian" is an open-source online book that offers a comprehensive tutorial on the Python programming language in Persian.**
+### 🎨 [gold](https://github.com/mjpt1/gold)
+**Recently updated repository.**
 
-[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/fa)
+[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/gold)
+[![Live](https://img.shields.io/badge/Live%20Demo-ef4444?style=for-the-badge&logo=vercel&logoColor=white)](https://gold-opal.vercel.app)
 
-`Python`
+`CSS`
 
 </td>
 <td width="50%">
 
-### 📦 [passchange](https://github.com/mjpt1/passchange)
+### 🟦 [bottel](https://github.com/mjpt1/bottel)
 **Recently updated repository.**
 
-[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/passchange)
+[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/bottel)
 
-`Project`
+`TypeScript`
 
 </td>
 </tr>
