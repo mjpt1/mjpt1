@@ -116,6 +116,17 @@ Most recently pushed repositories — refreshed automatically.
 <tr>
 <td width="50%">
 
+### 🟦 [kasbyar](https://github.com/mjpt1/kasbyar)
+**Recently updated repository.**
+
+[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/kasbyar)
+[![Live](https://img.shields.io/badge/Live%20Demo-ef4444?style=for-the-badge&logo=vercel&logoColor=white)](https://kasbyar.vercel.app)
+
+`TypeScript`
+
+</td>
+<td width="50%">
+
 ### 🟦 [plant](https://github.com/mjpt1/plant)
 **Recently updated repository.**
 
@@ -125,6 +136,8 @@ Most recently pushed repositories — refreshed automatically.
 `TypeScript`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🟦 [mahsaagent](https://github.com/mjpt1/mahsaagent)
@@ -135,8 +148,6 @@ Most recently pushed repositories — refreshed automatically.
 `TypeScript`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🐍 [pyrecall](https://github.com/mjpt1/pyrecall)
@@ -147,6 +158,8 @@ Most recently pushed repositories — refreshed automatically.
 `Python`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🎨 [memar](https://github.com/mjpt1/memar)
@@ -158,8 +171,6 @@ Most recently pushed repositories — refreshed automatically.
 `CSS`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🎨 [gold](https://github.com/mjpt1/gold)
@@ -169,16 +180,6 @@ Most recently pushed repositories — refreshed automatically.
 [![Live](https://img.shields.io/badge/Live%20Demo-ef4444?style=for-the-badge&logo=vercel&logoColor=white)](https://gold-opal.vercel.app)
 
 `CSS`
-
-</td>
-<td width="50%">
-
-### 🟦 [bottel](https://github.com/mjpt1/bottel)
-**Recently updated repository.**
-
-[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/bottel)
-
-`TypeScript`
 
 </td>
 </tr>
