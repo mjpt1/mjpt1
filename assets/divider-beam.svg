@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40" aria-hidden="true">
+  <defs>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#a78bfa" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .beam { animation: sweep 3.5s ease-in-out infinite; }
+      @keyframes sweep {
+        0%, 100% { transform: translateX(-120px); opacity: 0.4; }
+        50% { transform: translateX(120px); opacity: 1; }
+      }
+    </style>
+  </defs>
+  <rect x="50" y="18" width="800" height="2" rx="1" fill="url(#line)" opacity="0.5"/>
+  <rect class="beam" x="350" y="14" width="200" height="10" rx="5" fill="#a78bfa" opacity="0.35"/>
+</svg>

@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohsen%20Jabbarehasl&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Developer%20-%20AI%20and%20ML&descSize=20&descAlignY=58&descAlign=50&animation=twinkling" alt="Mohsen Jabbarehasl"/>
+<img src="https://raw.githubusercontent.com/mjpt1/mjpt1/main/assets/hero-parallax.svg" width="100%" alt="Mohsen Jabbarehasl — AI and Machine Learning"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1200&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=100&lines=Hi!+Welcome+to+my+GitHub+%F0%9F%91%8B;Senior+Software+Developer+%C2%B7+AI+%26+Machine+Learning;Building+scalable+products+that+ship+%E2%9C%A8" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=110&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Senior+Software+Developer;AI+%26+Machine+Learning+Engineer;Shipping+scalable+products+%E2%9A%A1" alt="Typing animation"/>
+
+<img src="https://raw.githubusercontent.com/mjpt1/mjpt1/main/assets/divider-beam.svg" width="900" alt=""/>
 
 <br/>
 
