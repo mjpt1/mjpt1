@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mjpt1/mjpt1/main/assets/hero-parallax.svg?v=2" width="100%" alt="Mohsen Jabbarehasl — AI and Machine Learning"/>
+<img src="https://raw.githubusercontent.com/mjpt1/mjpt1/main/assets/hero-parallax.gif?v=3" width="100%" alt="Mohsen Jabbarehasl — AI and Machine Learning"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=110&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Senior+Software+Developer;AI+%26+Machine+Learning+Engineer;Shipping+scalable+products+%E2%9A%A1" alt="Typing animation"/>
 
