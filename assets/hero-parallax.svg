@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Mohsen Jabbarehasl  Senior Software Developer, AI and ML">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Mohsen Jabbarehasl - Senior Software Developer, AI and ML">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0b1020"/>
       <stop offset="45%" stop-color="#17133a"/>
       <stop offset="100%" stop-color="#1a1030"/>
     </linearGradient>
-    <linearGradient id="glow" x1="0%" y1="0%" x2="1" y2="1">
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.55"/>
       <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.25"/>
     </linearGradient>
@@ -21,79 +21,56 @@
     <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="18"/>
     </filter>
-    <style>
-      .drift-slow { animation: drift 28s ease-in-out infinite alternate; }
-      .drift-mid { animation: drift 18s ease-in-out infinite alternate-reverse; }
-      .drift-fast { animation: drift 11s ease-in-out infinite alternate; }
-      .float-a { animation: floatY 7s ease-in-out infinite; }
-      .float-b { animation: floatY 9s ease-in-out infinite reverse; }
-      .float-c { animation: floatY 6s ease-in-out infinite; }
-      .twinkle { animation: twinkle 3.2s ease-in-out infinite; }
-      .pulse { animation: pulse 4.5s ease-in-out infinite; }
-      .title { animation: fadeUp 1.2s ease-out both; }
-      .sub { animation: fadeUp 1.2s ease-out 0.25s both; }
-      @keyframes drift {
-        from { transform: translateX(-28px); }
-        to { transform: translateX(28px); }
-      }
-      @keyframes floatY {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-14px); }
-      }
-      @keyframes twinkle {
-        0%, 100% { opacity: 0.25; }
-        50% { opacity: 1; }
-      }
-      @keyframes pulse {
-        0%, 100% { opacity: 0.45; transform: scale(1); }
-        50% { opacity: 0.8; transform: scale(1.08); }
-      }
-      @keyframes fadeUp {
-        from { opacity: 0; transform: translateY(16px); }
-        to { opacity: 1; transform: translateY(0); }
-      }
-    </style>
   </defs>
 
   <rect width="1200" height="340" fill="url(#bg)"/>
 
-  <!-- Far glow layers (slow parallax) -->
-  <g class="drift-slow">
-    <circle cx="220" cy="90" r="120" fill="url(#glow)" filter="url(#soft)" class="pulse"/>
+  <!-- Far glow (slow parallax) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-24 0;24 0;-24 0" dur="28s" repeatCount="indefinite"/>
+    <circle cx="220" cy="90" r="120" fill="url(#glow)" filter="url(#soft)" opacity="0.55">
+      <animate attributeName="opacity" values="0.35;0.7;0.35" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
     <circle cx="980" cy="70" r="100" fill="#22d3ee" opacity="0.12" filter="url(#soft)"/>
   </g>
 
-  <!-- Mid particle field -->
-  <g class="drift-mid" fill="#e2e8f0">
-    <circle class="twinkle" cx="80" cy="50" r="1.6"/>
-    <circle class="twinkle" cx="160" cy="120" r="1.2" style="animation-delay:.4s"/>
-    <circle class="twinkle" cx="300" cy="40" r="1.8" style="animation-delay:.8s"/>
-    <circle class="twinkle" cx="420" cy="150" r="1.3" style="animation-delay:1.1s"/>
-    <circle class="twinkle" cx="560" cy="35" r="1.5" style="animation-delay:.2s"/>
-    <circle class="twinkle" cx="700" cy="110" r="1.1" style="animation-delay:1.6s"/>
-    <circle class="twinkle" cx="820" cy="55" r="1.7" style="animation-delay:.6s"/>
-    <circle class="twinkle" cx="940" cy="140" r="1.2" style="animation-delay:1.3s"/>
-    <circle class="twinkle" cx="1080" cy="48" r="1.4" style="animation-delay:.9s"/>
-    <circle class="twinkle" cx="1140" cy="170" r="1.1" style="animation-delay:1.8s"/>
+  <!-- Stars -->
+  <g fill="#e2e8f0">
+    <animateTransform attributeName="transform" type="translate" values="16 0;-16 0;16 0" dur="18s" repeatCount="indefinite"/>
+    <circle cx="80" cy="50" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="160" cy="120" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="40" r="1.8"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="420" cy="150" r="1.3"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.6s" begin="1.1s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="35" r="1.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" begin="0.2s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="110" r="1.1"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.8s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="55" r="1.7"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.9s" begin="0.6s" repeatCount="indefinite"/></circle>
+    <circle cx="940" cy="140" r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.3s" begin="1.3s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="48" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.5s" begin="0.9s" repeatCount="indefinite"/></circle>
+    <circle cx="1140" cy="170" r="1.1"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.2s" begin="1.8s" repeatCount="indefinite"/></circle>
   </g>
 
-  <!-- Floating orbs (mid depth) -->
+  <!-- Floating orbs -->
+  <circle cx="180" cy="210" r="18" fill="#7c3aed" opacity="0.35">
+    <animate attributeName="cy" values="210;196;210" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="980" cy="200" r="24" fill="#22d3ee" opacity="0.28">
+    <animate attributeName="cy" values="200;214;200" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="640" cy="250" r="12" fill="#a78bfa" opacity="0.4">
+    <animate attributeName="cy" values="250;236;250" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Foreground waves -->
   <g>
-    <circle class="float-a" cx="180" cy="210" r="18" fill="#7c3aed" opacity="0.35"/>
-    <circle class="float-b" cx="980" cy="200" r="24" fill="#22d3ee" opacity="0.28"/>
-    <circle class="float-c" cx="640" cy="250" r="12" fill="#a78bfa" opacity="0.4"/>
-  </g>
-
-  <!-- Foreground waves (fast parallax) -->
-  <g class="drift-fast">
+    <animateTransform attributeName="transform" type="translate" values="-30 0;30 0;-30 0" dur="11s" repeatCount="indefinite"/>
     <path d="M0,275 C180,245 320,305 500,275 C680,245 820,300 1000,270 C1100,255 1160,265 1200,255 L1200,340 L0,340 Z" fill="url(#waveA)"/>
   </g>
-  <g class="drift-mid">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="22 0;-22 0;22 0" dur="16s" repeatCount="indefinite"/>
     <path d="M0,295 C200,275 360,320 540,295 C740,265 900,315 1100,290 C1150,283 1180,288 1200,285 L1200,340 L0,340 Z" fill="url(#waveB)"/>
   </g>
 
-  <!-- Title -->
-  <text class="title" x="600" y="145" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700">Mohsen Jabbarehasl</text>
-  <text class="sub" x="600" y="185" text-anchor="middle" fill="#c4b5fd" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="500">Senior Software Developer  ·  AI &amp; Machine Learning</text>
-  <text class="sub" x="600" y="218" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">Building production platforms that ship</text>
+  <text x="600" y="145" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700">Mohsen Jabbarehasl</text>
+  <text x="600" y="185" text-anchor="middle" fill="#c4b5fd" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="500">Senior Software Developer  ·  AI &amp; Machine Learning</text>
+  <text x="600" y="218" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">Building production platforms that ship</text>
 </svg>
