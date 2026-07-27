@@ -118,6 +118,17 @@ Most recently pushed repositories — refreshed automatically.
 <tr>
 <td width="50%">
 
+### 🟦 [kasbyar](https://github.com/mjpt1/kasbyar)
+**Recently updated repository.**
+
+[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/kasbyar)
+[![Live](https://img.shields.io/badge/Live%20Demo-ef4444?style=for-the-badge&logo=vercel&logoColor=white)](https://kasbyar.vercel.app)
+
+`TypeScript`
+
+</td>
+<td width="50%">
+
 ### 🟦 [armonia](https://github.com/mjpt1/armonia)
 **Recently updated repository.**
 
@@ -127,25 +138,14 @@ Most recently pushed repositories — refreshed automatically.
 `TypeScript`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🟦 [iranhelth](https://github.com/mjpt1/iranhelth)
 **پلتفرم جامع گردشگری درمانی ایران — IranHealth medical tourism platform**
 
 [![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/iranhelth)
-
-`TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🟦 [kasbyar](https://github.com/mjpt1/kasbyar)
-**Recently updated repository.**
-
-[![Repo](https://img.shields.io/badge/Repository-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjpt1/kasbyar)
-[![Live](https://img.shields.io/badge/Live%20Demo-ef4444?style=for-the-badge&logo=vercel&logoColor=white)](https://kasbyar.vercel.app)
 
 `TypeScript`
 
